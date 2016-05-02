@@ -1,0 +1,28 @@
+name: Grace Notes
+favicon: null
+layout_spectrum: 0.17900565243326128
+typography_spectrum: 0.6398391129914671
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2119725237134844
+  lightness: 0.8119221546221524
+  saturation: 0.978904199320823
+  rhythmicContrast: 0.7379774050787091
+purpose: []
