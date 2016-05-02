@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'In 1937 marijuana was outlawed in the United States, in part as a vendetta against the early pioneers of jazz music. '
-datePublished: '2016-05-02T21:14:22.123Z'
-dateModified: '2016-05-02T21:13:12.649Z'
+datePublished: '2016-05-02T21:14:51.178Z'
+dateModified: '2016-05-02T21:14:43.683Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-02-in-1937-marijuana-was-outlawed-in-the-united-states-in-part.md
